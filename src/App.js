@@ -18,7 +18,7 @@ function App() {
     };
 
     fetchWeatherData();
-  }, []);
+  }, [units]);
 
   const handleUnitsClick = (e) => {
     const button = e.currentTarget;
