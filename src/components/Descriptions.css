@@ -22,6 +22,7 @@
     align-items: center;
     justify-content: center;
     gap: 5px;
+    margin-bottom: 12px;
 }
 
 .description__card-icon>small {
