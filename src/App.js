@@ -50,6 +50,7 @@ function App() {
                 type="text"
                 name="city"
                 placeholder="Enter City..."
+                autoComplete="on"
               />
               <button onClick={(e) => handleUnitsClick(e)}>°F</button>
             </div>
